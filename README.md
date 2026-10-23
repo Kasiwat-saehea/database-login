@@ -28,3 +28,7 @@ The CRUD pages use prepared statements, validation, output escaping, POST for ch
 INSERT 25, SELECT+UPDATE 30, DELETE 25, screenshots/testing 10, Git commits 10.
 
 **Starter:** fill all TODO SQL queries before submitting.
+
+## Authentication Testing Account
+- **Email:** student@example.com
+- **Password:** 123456
